@@ -1,5 +1,7 @@
 **_ECO is free for all to use without restriction: see **CC0** information below._**
 
+This is a fork to test the idea of structuring a corpus in the ontology (or ontologies) that are used in annotations in the corpus.
+
 If you use ECO in your work, **please consider citing ECO**. We appreciate the attribution. 
 
 **Please cite our most recent paper, PMID 30407590**: [Giglio M, Tauber R, Nadendla S, Munro J, Olley D, Ball S, Mitraka E, Schriml LM, Gaudet P, Hobbs ET, Erill I, Siegele DA, Hu JC, Mungall C, and Chibucos MC. (2018) **ECO, the Evidence & Conclusion Ontology: community standard for evidence information**. _Nucleic Acids Research_. **gky1036**.](https://doi.org/10.1093/nar/gky1036)
